@@ -178,13 +178,17 @@ html {
   }
   .navbar ul {
     display: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
   }
   .navbar ul li {
     float: none;
   }
   .navbar ul li a {
+      font-size: 30px;
     padding: 15px;
-    line-height: 20px;
+    line-height: 50px;
   }
   .navbar ul li ul li a {
     padding-left: 30px;
